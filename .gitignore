@@ -8,7 +8,7 @@ __pycache__/
 
 # My Files 
 zeruenv/ 
-data/raw/user-wallet-transactions.csv 
+data/raw/user-wallet-transactions.json 
 
 # Distribution / packaging
 .Python
